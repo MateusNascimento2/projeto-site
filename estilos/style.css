@@ -4,13 +4,27 @@
 }
 
 body{
-  background-color: blanchedalmond;
+  background-color:rgb(176, 116, 231)
 }
 
 main{
   background-color: white;
-  width: 500px;
+  width: 570px;
   margin: auto;
   padding: 10px;
   box-shadow: 3px 3px 5px black;
+}
+
+h1{
+  font-size: 2em;
+  color: rgb(115, 41, 184);
+}
+
+h2{
+  font-size: 1.5em;
+  color: rgb(115, 41, 184);
+}
+
+img.lado{
+  float: right;
 }
